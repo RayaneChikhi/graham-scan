@@ -10,4 +10,4 @@ Here's an example of the code running on the following set of points:
 tab = [[0,1,1,4,4,5,5,7,7,8,11,13],[0,4,8,1,4,9,6,-1,2,5,6,1]]
 
 
-![Figure_1](https://github.com/RayaneChikhi/graham-scan/assets/128234596/11c2af34-0e22-464e-8b90-7c7f36eaf01b)
+![Figure_1](https://github.com/RayaneChikhi/graham-scan/assets/128234596/3c4cf004-2f3b-472a-8c92-e6705a5c3d1d)
