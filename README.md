@@ -4,3 +4,10 @@ Enter a list tab of the form [[x coordinates], [y coordinates]]. The program plo
 
 Note: It is a known fact that, given A_1,...,A_n n points randomly chosen on the unit circle, the probability of the event "the center O of the circle lies within the convex hull of A_1,..A_n" has probability
       1 - n/(2^{n-1}). You may use my probability simulator toolkit to illustrate this result using various laws to pick A_1,...,A_n.
+
+Here's an example of the code running on the following set of points:
+
+tab = [[0,1,1,4,4,5,5,7,7,8,11,13],[0,4,8,1,4,9,6,-1,2,5,6,1]]
+
+
+![Figure_1](https://github.com/RayaneChikhi/graham-scan/assets/128234596/11c2af34-0e22-464e-8b90-7c7f36eaf01b)
